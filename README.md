@@ -1,25 +1,11 @@
-<p align="center">
-╔══════════════════════╗<br>
-║                      Øжүd¡εn                     ║<br>
-║                  -Information-                 ║<br>
-╚══════════════════════╝<br>
-</p>
+### Hi, I'm oxydien! 👋
 
-```
-Interrupting packets...
-```
-```
-Decrypting stolen packets...
-```
-```
-Decrypted message:
+I'm a young developer who's passionate about coding and building things. Here's a bit about me:
 
-| 🚀 Programming Languages  | JavaScript, C#, Rust(±), Java(±)             |
-| 💻 Occupation             | Web Developer                                |
-| ⛏️ Interests              | Minecraft Enthusiast                         |
-| 🎥 Project Showcases      | [YouTube](https://www.youtube.com/@oldiseken)|
-| 🌐 Website                | [oldisek.eu:1111](http://oldisek.eu:1111/)   |
-```
-```
-Resuming packets...
-```
+- 💻 Languages: JavaScript, C#, Rust(±), Java(±)
+- 🌐 Mostly focused on web (app) development
+- ⚡ Experience with Vue.js and Tauri
+
+🔗 Visit my website: [oxydien.dev](https://oxydien.dev)
+
+📽️ Check out my YouTube channel: [@oxydien](https://youtube.com/@oxydien)
